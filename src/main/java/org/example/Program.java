@@ -266,6 +266,7 @@ class TicTacToePanel extends JPanel implements ActionListener {
 
    }
 
+
    private TicTacToeCell[] cells = new TicTacToeCell[9];
    TicTacToePanel(GridLayout layout) {
        super(layout);
